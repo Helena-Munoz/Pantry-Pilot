@@ -1,0 +1,8 @@
+{
+  "name": "pantry-pilot",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ]
+}
